@@ -24,8 +24,8 @@ ______________________________________________
     */
 
     /* --navbar-brand-couleur: rgb(255, 166, 0); */
-    --nav-link: white;
-    --nav-link-active: rgb(255, 209, 5);
+    --nav-link: rgb(137, 200, 241);
+    --nav-link-active: rgb(83, 81, 214);
 
 
     /* Redéfinition des couleurs de Bootstrap :*/
