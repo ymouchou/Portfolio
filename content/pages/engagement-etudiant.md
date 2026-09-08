@@ -1,34 +1,33 @@
 Title: Engagement étudiant
 
 
-# 🤝 Engagement Étudiant
+# 🤝 Job Étudiant
 
-## 🚒 Pompier volontaire
+## Caissier Carrefour
 
-En parallèle de mes études en BTS SIO, je suis **pompier volontaire** depuis 2 ans au sein du centre de secours de [VilleFictive].  
+En parallèle de mes études en BTS SIO, je suis caissier à Carrefour depuis 4 mois, dans la ville de Ecuelles.
 
-<img src="{static}/images/portrait-pompier_volontaire.png" class="shadow" style="width:150px;" >
+<img src="{static}/images/caissier.png" class="shadow" style="width:150px;" >
 
 
 ### Mes missions principales
-- Interventions de secours à personnes (accidents, urgences médicales).  
-- Lutte contre les incendies et protection des biens.  
-- Assistance en cas de catastrophes naturelles ou d’accidents de la route.  
-- Sensibilisation à la prévention des risques (auprès du grand public et des écoles).  
+- Accueillir les clients  
+- Être souriant, poli et à l'écoute  
+- Encaisser les clients
 
 ### Compétences développées
-- **Rigueur et discipline** : respect strict des procédures de sécurité.  
-- **Gestion du stress** : réagir rapidement et efficacement en situation d’urgence.  
-- **Travail en équipe** : coordination avec d’autres pompiers, médecins, gendarmes.  
+- **Rigueur et discipline** : respect strict des règles de mon poste.  
+- **Gestion du stress** : réagir rapidement et calmement en situation de rush.  
+- **Travail en équipe** : savoir communiquer et donner les informations nécessaires.  
 - **Sens du service** : engagement au profit des autres et esprit de solidarité.  
 - **Organisation** : concilier études exigeantes et disponibilité opérationnelle.  
 
 ### Ce que cela m’apporte dans mes études
-Être pompier volontaire m’aide à développer des **qualités humaines et professionnelles** utiles en informatique :  
+Être caissier m’aide à développer des **qualités humaines et professionnelles** utiles en informatique :  
 - La gestion des priorités et des imprévus.  
-- La capacité à travailler en **mode projet**, comme lors d’une intervention.  
+- La capacité à travailler sous le stress.  
 - L’esprit d’entraide et la communication claire, essentiels dans une équipe informatique.  
 
 ---
 
-📌 *Mon engagement de pompier volontaire illustre ma motivation à mettre mes compétences au service des autres, que ce soit dans le cadre d’interventions d’urgence ou dans mes projets informatiques.*  
+📌   

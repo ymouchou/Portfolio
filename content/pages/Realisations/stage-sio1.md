@@ -4,10 +4,10 @@ Title: Stage SIO1
 
 > <u>**Dates du stage :**</u>
 >
-> - **Date début :** XX/06/2025
-> - **Date fin :** XX/06/2025
+> - **Date début :** 18/05/2026
+> - **Date fin :** 28/06/2026
 >
-> **Entreprise :** Nom de l'entreprise
+> **Entreprise :** CNRS Ecotron Nemours
 
 
 
