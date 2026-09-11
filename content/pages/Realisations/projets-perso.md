@@ -1,8 +1,7 @@
 Title: Projets personnels
 
 
-Voici quelques projets réalisés durant mes deux années :
+Voici quelques projets réalisés durant mon temps libre :
 
-- Application de gestion de stages en Python/Django
-- API REST de gestion de séries avec Spring Boot
-- Portfolio personnel avec Pelican
+- Site : J'ai réalisé un site de restaurant
+- Jeu tour par tour : Jeu approfondi en tour par tour en utlisant la POO avec Python

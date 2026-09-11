@@ -1,8 +1,8 @@
 Title: Projets scolaires
 
 
-Voici quelques projets réalisés durant mes deux années :
+Voici quelques projets réalisés durant ma première année de BTS SIO :
 
-- Application de gestion de stages en Python/Django
-- API REST de gestion de séries avec Spring Boot
-- Portfolio personnel avec Pelican
+- AP Cinema : Site qui répertorie plusieurs films
+- Mini-jeu tour par tour : Mini-jeu en Python POO
+- Portfolio personnel : Portfolio réalisé en cours

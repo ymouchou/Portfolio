@@ -7,7 +7,7 @@ Title: Engagement étudiant
 
 En parallèle de mes études en BTS SIO, je suis caissier à Carrefour depuis 4 mois, dans la ville de Ecuelles.
 
-<img src="{static}/images/caissier.png" class="shadow" style="width:150px;" >
+<img src="{static}/images/caisse.png" class="shadow" style="width:150px;" >
 
 
 ### Mes missions principales
